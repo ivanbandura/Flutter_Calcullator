@@ -20,7 +20,6 @@ class CalculatorError extends CalculatorState {
   CalculatorError(this.error);
 }
 
-
 class CalculatorEvent {
   Operation operation;
  int num1;
